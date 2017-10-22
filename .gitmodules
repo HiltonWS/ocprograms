@@ -1,0 +1,3 @@
+[submodule "OpenComputers-Lua-API"]
+	path = OpenComputers-Lua-API
+	url = https://github.com/ProgramandoMinecraft/OpenComputers-Lua-API
